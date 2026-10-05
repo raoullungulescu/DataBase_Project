@@ -39,4 +39,5 @@ Tabele: `utilizatori`, `clienti`, `masini`, `furnizor`, `dotari`, `masina_dotari
 - Parolă: `demo1234`
 
 Exemplu pagina pentru login a site-ului:
+
 <img width="571" height="688" alt="Screenshot 2026-10-06 at 02 01 20" src="https://github.com/user-attachments/assets/9662dcc8-5d0e-4a33-a528-3a53457237d1" />
